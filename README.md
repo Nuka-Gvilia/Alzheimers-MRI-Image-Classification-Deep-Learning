@@ -33,7 +33,7 @@ To classify MRI images we compared two different models:
 - Convolutional Neural network with 2 layers
 - VGG 16 Model 
 
-For each model we compared to datasets, one that was augmented and the original
+For each model we compared two datasets - one that was augmented and the original
 
 ## Contributing Members
 
